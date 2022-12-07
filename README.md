@@ -1,4 +1,4 @@
-#Kaggle Titanic survival Machine learning project 
+# Kaggle Titanic survival Machine learning project 
 ________________________________________________________________________________________________________________________________________________________________________
 * Entry for Kaggle Beginner challenge on Machine learning which helped in
 prediction of the survival of passengers in the titanic disaster.
